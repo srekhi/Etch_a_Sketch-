@@ -1,0 +1,21 @@
+td{
+    width:25px;
+    height:25px; 
+    background-color:red;
+    border: 1px solid blue;
+   
+}
+.colored{
+	background-color:black;
+}
+#container{
+	width:960px;
+}
+#button
+{
+	width:100px;
+	margin:auto;
+}
+.noncolored{
+	background-color:red;
+}
